@@ -1,4 +1,4 @@
-/!\ Les étudiants de Supinfo, je vous vois copier coller mon code pour l'exam final, inspirer vous de celui-ci pour refaire le code, aulieu de copier coller ;) Good Luck
+/!\ Les étudiants de Supinfo, je vous vois copier coller mon code pour l'exam final, inspirez vous de celui-ci pour refaire le code, au lieu de copier coller ;) Good Luck
 
 Notes sur les différents fichiers : 
 - morpion_max-features.py : Fichier principal comprenant tout. 
